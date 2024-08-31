@@ -25,44 +25,41 @@ Here are some ideas to get you started:
 <br>
 
 <!-- Github Stats -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <!-- Github Stats -->
-  <a href="https://github.com/satera1/github-readme-stats">
+<div>
+  <a>
     <img src="https://github-readme-stats.vercel.app/api?username=satera1&show_icons=true&theme=nightowl&rank_icon=github" alt="Rafael Hideki Sato's GitHub stats" />
   </a>
-  <a href="https://github.com/satera1/github-readme-stats">
+  <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satera1&layout=donut&show_icons=true&theme=nightowl" alt="Top Langs" />
   </a>
 </div>
 
-<!-- Icons -->
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 1rem;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <!-- Icons 1 -->
-  <div style="display: flex; align-items: center; margin-right: 14rem;">
+  <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
-  </div>
+
+  <div style="flex: 8;"></div>
 
   <!-- Icons 2 -->
-  <div style="display: flex; align-items: center;">
-    <a href="https://linkedin.com/in/rafael-sato-2514a618b/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://instagram.com/hideki_rafael/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://github.com/Satera1" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:rafaelhidekisato@outlook.com">
-      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank">
-    </a>
+  <a href="https://linkedin.com/in/rafael-sato-2514a618b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/hideki_rafael/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/Satera1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:rafaelhidekisato@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank">
+  </a>
   </div>
 </div>
-
 <br>
 
 
