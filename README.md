@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Typing SVG -->
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://readme-typing-svg.demolab.com?font=Gang+of+Three&size=24&letterSpacing=2px&duration=3000&pause=2000&color=87CEFA&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Rafael+Hideki+Sato;Data+Scientist;Developer+Analyst;Python+Developer;SQL" alt="Typing SVG" />
 </div>
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
 
-  <span style="width: 1rem; display: inline-block;"></span>
+  <span style="width: 4rem;"></span>
 
   <!-- Icons 2 -->
   <a href="https://linkedin.com/in/rafael-sato-2514a618b/" target="_blank">
