@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
   <!-- Icons 1 -->
   <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
