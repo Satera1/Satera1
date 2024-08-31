@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Typing SVG -->
-<div style="text-align: center;">
+<div>
   <img src="https://readme-typing-svg.demolab.com?font=Gang+of+Three&size=24&letterSpacing=2px&duration=3000&pause=2000&color=87CEFA&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Rafael+Hideki+Sato;Data+Scientist;Developer+Analyst;Python+Developer;SQL" alt="Typing SVG" />
 </div>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 <!-- Github Stats -->
-<div style='text-align: center;'>
+<div>
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=satera1&show_icons=true&theme=nightowl&rank_icon=github" alt="Rafael Hideki Sato's GitHub stats" />
   </a>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div style="text-align: center;">
+<div>
   <!-- All Icons -->
   <div style="display: inline-flex; align-items: center;">
     <!-- Icons 1 -->
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <!-- Repositories -->
 <!-- Line 1 -->
-<div style="text-align: center;">
+<div>
   <div>
   <a href="https://github.com/Satera1/Progress">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=satera1&repo=Progress&show_owner=false&theme=one_dark_pro" alt="Progress" />
