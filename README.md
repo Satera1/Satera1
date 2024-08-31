@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Gang+of+Three&size=24&letterSpacing=2px&duration=3000&pause=2000&color=87CEFA&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Rafael+Hideki+Sato;Data+Scientist;Developer+Analyst;Python+Developer;SQL" alt="Typing SVG" />
 </div>
 
+#
+
+<br>
+
 <!-- Github Stats -->
 <div style='text-align: center;'>
   <a>
