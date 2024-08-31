@@ -36,12 +36,14 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <!-- Icons 1 -->
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
+
+  <span style="width: 6rem; display: inline-block;"></span>
 
   <!-- Icons 2 -->
   <a href="https://linkedin.com/in/rafael-sato-2514a618b/" target="_blank">
