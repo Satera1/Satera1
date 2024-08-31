@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG -->
 <div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Gang+of+Three&size=24&letterSpacing=2px&duration=3000&pause=2000&color=87CEFA&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Rafael+Hideki+Sato;Data+Scientist;Developer+Analyst;Python+Developer;SQL" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Gang+of+Three&size=24&letterSpacing=2px&duration=3000&pause=2000&color=87CEFA&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Rafael+Hideki+Sato;Data+Scientist;Developer+Analyst;Python+Developer;SQL" alt="Typing SVG" />
 </div>
 
 <!-- Github Stats -->
@@ -45,7 +43,7 @@ Here are some ideas to get you started:
     </div>
 
   <!-- Icons 2 -->
-  <div style="margin-left: 14rem;">
+  <div style="margin-left: 10rem;">
     <a href="https://linkedin.com/in/rafael-sato-2514a618b/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
