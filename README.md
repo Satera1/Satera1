@@ -90,3 +90,10 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=satera1&repo=Satera1&show_owner=false&theme=one_dark_pro" alt="Profile" />
   </a>
 </div>
+
+<!-- Line 3 -->
+<div>
+  <a href="https://github.com/Satera1/Website-Sentiment-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satera1&repo=Website-Sentiment-Analysis&show_owner=false&theme=one_dark_pro" alt="Website Sentiment Analysis" />
+  </a>
+</div>
