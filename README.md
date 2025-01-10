@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 <!-- Line 1 -->
 <div>
   <div>
-  <a href="https://github.com/Satera1/Progress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satera1&repo=Progress&show_owner=false&theme=one_dark_pro" alt="Progress" />
+  <a href="https://github.com/Satera1/Study-Progress">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satera1&repo=Study-Progress&show_owner=false&theme=one_dark_pro" alt="Study-Progress" />
   </a>
   <a href="https://github.com/Satera1/Discord-Dice-Bot-OBS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=satera1&repo=Discord-Dice-Bot-OBS&show_owner=false&theme=one_dark_pro" alt="Dice Discord BOT with OBS" />
